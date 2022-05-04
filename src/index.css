@@ -1,0 +1,22 @@
+.label {
+  margin-right: 40px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.oneInput {
+  margin-bottom: 20px;
+}
+
+.oneForm {
+  max-width: 600px;
+  margin: 60px auto;
+}
+
+.somethingswrong {
+  background: #db797c;
+  border: #db797c;
+}
