@@ -1,7 +1,7 @@
-import BasicForm from './components/BasicForm'
+import SimpleThree from './components/SimpleThree'
 function App() {
   return (
-    <BasicForm />
+    <SimpleThree />
   );
 }
 
